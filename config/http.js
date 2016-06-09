@@ -30,7 +30,7 @@ module.exports.http = {
   *                                                                          *
   ***************************************************************************/
 
-    // order: [
+    order: [
     //   'startRequestTimer',
     //   'cookieParser',
     //   'session',
@@ -41,12 +41,12 @@ module.exports.http = {
     //   'methodOverride',
     //   'poweredBy',
     //   '$custom',
-    //   'router',
+       'router',
     //   'www',
     //   'favicon',
     //   '404',
     //   '500'
-    // ],
+    ],
 
   /****************************************************************************
   *                                                                           *
