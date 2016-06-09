@@ -1,3 +1,3 @@
-# upload-swagger-sails
+# example for following issue
 
-a [Sails](http://sailsjs.org) application
+https://github.com/theganyo/swagger-node-runner/issues/41
